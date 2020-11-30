@@ -1,0 +1,12 @@
+{
+  "name": "libin-utils",
+  "version": "1.0.1",
+  "description": "A toolkit",
+  "keywords": [
+    "libin"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/myLB/utils",
+  "author": "libin <18657190903@163.com>",
+  "license": "MIT"
+}
